@@ -1,0 +1,37 @@
+body{background-color:#4d0505; color:white;}
+h1.border{background-image: url("https://www.telegraph.co.uk/content/dam/Travel/2017/April/coffee.jpg");opacity:1; width:100%;
+ padding: 30px 0px 30px 0px;
+ text-align: center;color: #ffff99; text-shadow:2px 2px black;
+ font-weight: bold;margin:0px; text-transform: uppercase; font-size:50px;}
+
+
+nav{background-color: #8D2F2F; border: 2px solid; color:white; margin-top:0%; margin-bottom:0px;}
+
+a{
+text-decoration:none;
+color: white;
+padding-left:70px;
+}
+
+ul{
+list-style:none;
+}
+
+li.nav{
+display:inline;
+ padding: 50px;
+ font-size: 25px;
+text-transform: uppercase; }
+
+li.menu{
+text-align:left; margin:0px 50px;}
+
+h1.disclaimer{
+color:red;
+text-align:center;
+}
+
+div{
+margin-top:50px;
+border: 2px solid white;
+padding:10px;}
